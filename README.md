@@ -1,0 +1,2 @@
+# SendMailByAliyun
+使用smtp调用阿里云的邮件服务发送邮件
